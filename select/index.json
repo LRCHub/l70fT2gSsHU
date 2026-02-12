@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "ONE NIGHT",
+  "base_artist": "Full Throttle4",
+  "createdAt": "2026-02-12T15:23:25.157055Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "One Night At A Time",
+      "artist": "George Strait",
+      "has_synced": true,
+      "path": "select/01_One_Night_At_A_Time_George_Strait.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "One Night At A Time (Album Version)",
+      "artist": "George Strait",
+      "has_synced": true,
+      "path": "select/02_One_Night_At_A_Time_(Album_Version)_George_Strait.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "One Night At A Time (Album Version)",
+      "artist": "George Strait",
+      "has_synced": true,
+      "path": "select/03_One_Night_At_A_Time_(Album_Version)_George_Strait.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "One Night At A Time - Edit",
+      "artist": "George Strait",
+      "has_synced": false,
+      "path": "select/04_One_Night_At_A_Time_-_Edit_George_Strait.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "One Night Standards",
+      "artist": "Ashley McBryde",
+      "has_synced": true,
+      "path": "select/05_One_Night_Standards_Ashley_McBryde.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "One Night Standards",
+      "artist": "Ashley McBryde",
+      "has_synced": true,
+      "path": "select/06_One_Night_Standards_Ashley_McBryde.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "If Only for One Night",
+      "artist": "Luther Vandross",
+      "has_synced": true,
+      "path": "select/07_If_Only_for_One_Night_Luther_Vandross.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "If Only For One Night",
+      "artist": "Luther Vandross",
+      "has_synced": false,
+      "path": "select/08_If_Only_For_One_Night_Luther_Vandross.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "One Night (Extended)",
+      "artist": "Lil Yachty",
+      "has_synced": true,
+      "path": "select/09_One_Night_(Extended)_Lil_Yachty.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "One Night",
+      "artist": "Lil Durk",
+      "has_synced": true,
+      "path": "select/10_One_Night_Lil_Durk.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "One Night (Prod. by Young Chop)",
+      "artist": "Lil Durk",
+      "has_synced": true,
+      "path": "select/11_One_Night_(Prod._by_Young_Chop)_Lil_Durk.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "One Night Stand",
+      "artist": "Lil Jon & The East Side Boyz",
+      "has_synced": false,
+      "path": "select/12_One_Night_Stand_Lil_Jon_&_The_East_Side_Boyz.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "One Night Stand (feat. Oobie)",
+      "artist": "Lil Jon & The Eastside Boyz",
+      "has_synced": false,
+      "path": "select/13_One_Night_Stand_(feat._Oobie)_Lil_Jon_&_The_Eastside_Boyz.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "One Night Stand",
+      "artist": "Lil Jon & The East Side Boyz feat. Oobie",
+      "has_synced": false,
+      "path": "select/14_One_Night_Stand_Lil_Jon_&_The_East_Side_Boyz_feat._Oobie.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "One Night Stand (7\" edit)",
+      "artist": "The Aloof",
+      "has_synced": false,
+      "path": "select/15_One_Night_Stand_(7__edit)_The_Aloof.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "One Night Stand [7' Edit]",
+      "artist": "The Aloof",
+      "has_synced": false,
+      "path": "select/16_One_Night_Stand_[7'_Edit]_The_Aloof.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "One Night",
+      "artist": "Travis",
+      "has_synced": true,
+      "path": "select/17_One_Night_Travis.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "just one night and maybe goodbye - album mix",
+      "artist": "Eiffel 65",
+      "has_synced": true,
+      "path": "select/18_just_one_night_and_maybe_goodbye_-_album_mix_Eiffel_65.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Just One Night And Maybe Goodbye (Album Mix)",
+      "artist": "Eiffel 65",
+      "has_synced": true,
+      "path": "select/19_Just_One_Night_And_Maybe_Goodbye_(Album_Mix)_Eiffel_65.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ONE NIGHT",
+      "artist": "Full Throttle4",
+      "has_synced": false,
+      "path": "select/pl_01_ONE_NIGHT_Full_Throttle4.txt"
+    }
+  ]
+}
